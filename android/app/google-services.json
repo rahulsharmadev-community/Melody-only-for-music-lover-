@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "example",
+    "firebase_url": "https://www.example.com",
+    "project_id": "example-auth",
+    "storage_bucket": "example-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:example:android:appid",
+        "android_client_info": {
+          "package_name": "com.rahulsharmadev-community.melody"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "example.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rahulsharmadev-community.melody",
+            "certificate_hash": "9e8ab8c6b0d9ca2af8ed6be1716b5ee4e67e2892"
+          }
+        },
+        {
+          "client_id": "example-.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "example-key"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "example-.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
