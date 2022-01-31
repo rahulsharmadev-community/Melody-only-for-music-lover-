@@ -1,4 +1,9 @@
-# Melody
+<p align="center">
+  <img width="150" src="/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt="logo">
+</p>
+
+## <p align="center"> Dream VPN <p align="center">•  Ui / Ux [DESIGN](https://www.figma.com/@rahulsharmadev)</a> • See [LICENSE](/LICENSE)
+</p>
 
 It's for education purpose. and it's 6th project, Code available on github.
 😊👋Bye Happy learning..
