@@ -1,6 +1,14 @@
-# melody
+# Melody
 
-A new Flutter project.
+It's for education purpose. and it's 6th project, Code available on github.
+😊👋Bye Happy learning..
+Melody Music app offers
+- Over 45 million MP3 songs
+- High-quality HD music streaming
+- Thousands of playlists created by Experts
+- India's Lofi & CC Audio, Meditation and Workout Music
+- Ad-free Music experience
+- Music in high definition audio quality
 
 ## Getting Started
 
